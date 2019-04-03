@@ -1,18 +1,21 @@
 body{
     /*background-color: lightblue;*/
-    background-image:radial-gradient(circle, white,orange)
+    background-image:radial-gradient(circle, orange,white)
 }
 h1{
-    color:white;
+    color:orange;
     font-size:40px;
+    font-wegiht:bold;
     text-align:center;
 }
 h2{
-    color:black;
+    color:orange;
+    font-weight:bold;
 }
 p{
     font-size:25px;
-    color:black;
+    color:orange;
+    font-weight:bold;
     text-align:center;
     
 }
@@ -24,17 +27,23 @@ p{
 .Sec{
     font-size:25px;
     color:white;
+    font-weight:bold;
 }
 
 .Sec2{
     font-size:25px;
     color:white;
+    font-weight:bold;
+    
 }
 
 .Sec3{
     font-size:25px;
+    font-weight:bold;
 }
 .Sec4{
     font-size:25px;
+    font-weight:bold;
+    
 }
 
