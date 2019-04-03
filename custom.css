@@ -7,7 +7,7 @@ h1{
     text-align:center;
 }
 h2{
-    color:white;
+    color:black;
 }
 p{
     font-size:25px;
@@ -19,4 +19,8 @@ p{
 .container{
     font-size:25px; /*hold/click your mouse on "home" or :afraid of heights to see info */
     
+}
+.Sec{
+    font-size:25px;
+    color:white;
 }
