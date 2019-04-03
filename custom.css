@@ -11,14 +11,14 @@ h2{
 }
 p{
     font-size:25px;
-    color:white;
+    color:black;
     text-align:center;
     
 }
 
 .container{
     font-size:25px; /*hold/click your mouse on "home" or :afraid of heights to see info */
-    
+    color:black;
 }
 .Sec{
     font-size:25px;
@@ -30,3 +30,6 @@ p{
     color:white;
 }
 
+.Sec3{
+    font-size:25px;
+}
