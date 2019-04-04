@@ -1,14 +1,57 @@
 body{
-    background-color:lightblue;
+    /*background-color: lightblue;*/
+    background-image:radial-gradient(circle,orange,red)
 }
 h1{
     color:white;
     font-size:40px;
+    font-wegiht:bold;
     text-align:center;
+}
+h2{
+    color:white;
+    font-weight:bold;
+}
+h3{
+    text-align:center;
+    font-size:35px;
+}
+h4{
+    text-align:center;
+    font-weight:200;
 }
 p{
     font-size:25px;
     color:white;
+    font-weight:300;
     text-align:center;
     
 }
+
+.container{
+    font-size:25px; /*hold/click your mouse on "home" or :afraid of heights to see info */
+    color:black;
+}
+.Sec{
+    font-size:25px;
+    color:white;
+    font-weight:300;
+}
+
+.Sec2{
+    font-size:25px;
+    color:white;
+    font-weight:300;
+    
+}
+
+.Sec3{
+    font-size:25px;
+    font-weight:300;
+}
+.Sec4{
+    font-size:25px;
+    font-weight:300;
+    
+}
+
