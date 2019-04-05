@@ -6,12 +6,13 @@ h1{
     color:white;
     font-size:50px;
     font-wegiht:bold;
-    font-family:'Playball', cursive;;
+    font-family:'Playball', cursive;
     text-align:center;
 }
 h2{
     color:white;
     font-weight:bold;
+    font-family:'Playball', cursive;
 }
 h3{
     text-align:center;
@@ -25,10 +26,11 @@ h4{
 h7{
     font-size:30px;
     color:white;
-    font-family:'Kalam', cursive;;
+    font-family:'Rajdhani', sans-serif;;
 }
 p{
     font-size:25px;
+    font-family: 'Rajdhani', sans-serif;;
     color:white;
     font-weight:300;
     text-align:center;
@@ -42,11 +44,13 @@ p{
 .Sec{
     font-size:25px;
     color:white;
+    font-family:'Rajdhani', sans-serif;
     font-weight:300;
 }
 
 .Sec2{
     font-size:25px;
+    font-family:'Rajdhani', sans-serif;
     color:white;
     font-weight:300;
     
@@ -54,6 +58,7 @@ p{
 
 .Sec3{
     font-size:25px;
+    font-family:'Rajdhani', sans-serif;
     font-weight:300;
 }
 .Sec4{
