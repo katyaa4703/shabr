@@ -12,9 +12,10 @@ h1{
 
 
 h2{
+    font-size:27px;
     color:white;
     font-weight:bold;
-    font-family:'Playball', cursive;
+    font-family:'Anton', sans-serif;
 }
 
 h3{
@@ -41,7 +42,7 @@ h10{
     font-size:30px;
     font-weight:bold;
     color:white;
-    font-family:'Rajdhani', sans-serif;
+    font-family:'Anton', sans-serif;
 }
 h11{
     font-size:40px;
