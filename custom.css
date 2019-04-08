@@ -9,7 +9,7 @@ h1{
     font-weight:bold;
 
     font-size:55px;
-    font-wegiht:bold;
+    font-weight:bold;
     font-family:'Playball', cursive;
 
     text-align:center;
@@ -123,10 +123,12 @@ p{
     font-size:25px;
     font-family:'Rajdhani', sans-serif;
     font-weight:300;
+    color:white;
 }
 .Sec4{
     font-size:25px;
     font-weight:300;
+    color:white;
     
 }
 
