@@ -26,11 +26,13 @@ h4{
     font-size:25px;
     font-family:'Rajdhani', sans-serif;
 }
-    
+h5{
+    font-size:25px;
+    font-family:'Rajdhani', sans-serif;
 }
-h7{
-    font-size:20px;
-    color:white;
+
+h6{
+    font-size:25px;
     font-family:'Rajdhani', sans-serif;
 }
 p{
