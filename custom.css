@@ -4,14 +4,14 @@ body{
 }
 h1{
     color:white;
-<<<<<<< HEAD
+
     font-size:40px;
     font-weight:bold;
-=======
+
     font-size:55px;
     font-wegiht:bold;
     font-family:'Playball', cursive;
->>>>>>> 48b7199c06c9c986c99ee4c106032e241c546c71
+
     text-align:center;
 }
 
@@ -131,3 +131,4 @@ p{
 }
 
 
+}
