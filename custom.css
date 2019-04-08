@@ -73,42 +73,7 @@ h11{
     color:white;
     
 }
-h12{
-    font-size:30px;
-    color:black;
-    font-weight:bold;
-    font-family:'Anton', sans-serif;
-}
-@media(min-width:768px){
-    h12{
-        color:white;
-    }
 
-
-li{
-
-   font-size:40px;
-   font-weight:bold;
-   
-}
-.panel-heading{
-    font-size:25px;
-    font-weight:bold;
-    
-}
-
-p{
-    font-size:33px;
-    font-family: 'Rajdhani', sans-serif;
-    color: white;
-    text-align:center;
-    
-}
-
-.container{
-    font-size:25px; /*hold/click your mouse on "home" or :afraid of heights to see info */
-    color:black;
-}
 .Sec{
     font-size:25px;
     color:white;
@@ -136,6 +101,38 @@ p{
     color:white;
     
 }
+
+
+}
+li{
+
+   font-size:40px;
+   font-weight:bold;
+   
+}
+.panel-heading{
+    font-size:25px;
+    font-weight:bold;
+    
+}
+
+
+
+.container{
+    font-size:25px; /*hold/click your mouse on "home" or :afraid of heights to see info */
+    color:black;
+}
+
+h12{
+    font-size:30px;
+    color:black;
+    font-weight:bold;
+    font-family:'Anton', sans-serif;
+}
+@media(min-width:768px){
+    h12{
+        color:white;
+    }
 
 
 }
