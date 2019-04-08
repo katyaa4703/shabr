@@ -4,26 +4,98 @@ body{
 }
 h1{
     color:white;
+<<<<<<< HEAD
     font-size:40px;
     font-weight:bold;
+=======
+    font-size:55px;
+    font-wegiht:bold;
+    font-family:'Playball', cursive;
+>>>>>>> 48b7199c06c9c986c99ee4c106032e241c546c71
     text-align:center;
 }
+
+
 h2{
+    font-size:27px;
     color:white;
     font-weight:bold;
+    font-family:'Anton', sans-serif;
 }
+
 h3{
     text-align:center;
-    font-size:35px;
+    font-size:40px;
+    font-family:'Playball', cursive;
 }
 h4{
     text-align:center;
     font-weight:200;
-}
-p{
     font-size:25px;
+    font-family:'Rajdhani', sans-serif;
+}
+h5{
+    font-size:25px;
+    font-family:'Rajdhani', sans-serif;
+}
+h6{
+   font-family:'Rajdhani', sans-serif;
+   font-size:25px;
+}
+
+h7{
+    font-family:'Rajdhani', sans-serif;
+   font-size:25px;
+}
+h8{
+    font-family:'Rajdhani', sans-serif;
+   font-size:25px;
+}
+h9{
+    font-family:'Rajdhani', sans-serif;
+   font-size:25px;
+}
+h10{
+    font-size:30px;
+    font-weight:bold;
     color:white;
-    font-weight:300;
+    font-family:'Anton', sans-serif;
+}
+h11{
+    font-size:40px;
+    font-family:'Playball', cursive;
+    text-align:center;
+    color:white;
+    
+}
+h12{
+    font-size:30px;
+    color:black;
+    font-weight:bold;
+    font-family:'Anton', sans-serif;
+}
+@media(min-width:768px){
+    h12{
+        color:white;
+    }
+
+
+li{
+
+   font-size:35px;
+   font-weight:bold;
+   
+}
+.panel-heading{
+    font-size:25px;
+    font-weight:bold;
+    
+}
+
+p{
+    font-size:33px;
+    font-family: 'Rajdhani', sans-serif;
+    color:white;
     text-align:center;
     
 }
@@ -35,11 +107,13 @@ p{
 .Sec{
     font-size:25px;
     color:white;
+    font-family:'Rajdhani', sans-serif;
     font-weight:300;
 }
 
 .Sec2{
     font-size:25px;
+    font-family:'Rajdhani', sans-serif;
     color:white;
     font-weight:300;
     
@@ -47,6 +121,7 @@ p{
 
 .Sec3{
     font-size:25px;
+    font-family:'Rajdhani', sans-serif;
     font-weight:300;
 }
 .Sec4{
@@ -54,4 +129,5 @@ p{
     font-weight:300;
     
 }
+
 
