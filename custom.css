@@ -37,23 +37,28 @@ h4{
 h5{
     font-size:25px;
     font-family:'Rajdhani', sans-serif;
+    color:white;
 }
 h6{
    font-family:'Rajdhani', sans-serif;
    font-size:25px;
+   color:white;
 }
 
 h7{
     font-family:'Rajdhani', sans-serif;
    font-size:25px;
+   color:white;
 }
 h8{
     font-family:'Rajdhani', sans-serif;
    font-size:25px;
+   color:white;
 }
 h9{
     font-family:'Rajdhani', sans-serif;
    font-size:25px;
+   color:white;
 }
 h10{
     font-size:30px;
@@ -82,7 +87,7 @@ h12{
 
 li{
 
-   font-size:35px;
+   font-size:40px;
    font-weight:bold;
    
 }
@@ -95,7 +100,7 @@ li{
 p{
     font-size:33px;
     font-family: 'Rajdhani', sans-serif;
-    color:white;
+    color: white;
     text-align:center;
     
 }
