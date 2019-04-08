@@ -69,7 +69,12 @@ h12{
     font-weight:bold;
     font-family:'Anton', sans-serif;
 }
+li{
 
+   font-size:35px;
+   font-weight:bold;
+   
+}
 .panel-heading{
     font-size:25px;
     font-weight:bold;
