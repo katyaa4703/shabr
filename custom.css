@@ -43,6 +43,18 @@ h10{
     color:white;
     font-family:'Rajdhani', sans-serif;
 }
+h11{
+    font-size:40px;
+    font-family:'Playball', cursive;
+    text-align:center;
+    color:white;
+    
+}
+.panel-heading{
+    font-size:25px;
+    font-weight:bold;
+}
+
 p{
     font-size:29px;
     font-family: 'Rajdhani', sans-serif;
