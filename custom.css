@@ -69,6 +69,12 @@ h12{
     font-weight:bold;
     font-family:'Anton', sans-serif;
 }
+@media(min-width:768px){
+    h12{
+        color:white;
+    }
+
+
 li{
 
    font-size:35px;
@@ -118,4 +124,5 @@ p{
     font-weight:300;
     
 }
+
 
