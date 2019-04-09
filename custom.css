@@ -4,20 +4,21 @@ body{
 }
 h1{
     color:white;
-
-    font-size:40px;
     font-weight:bold;
-
     font-size:55px;
-    font-weight:bold;
     font-family:'Playball', cursive;
-
     text-align:center;
 }
-
+p{
+    font-size:32px;
+    text-align:center;
+    color:white;
+    font-weight:bold;
+    font-family:'Rajdhani', sans-serif;
+}
 
 h2{
-    font-size:27px;
+    font-size:30px;
     color:white;
     font-weight:bold;
     font-family:'Anton', sans-serif;
@@ -26,34 +27,41 @@ h2{
 h3{
     text-align:center;
     font-size:40px;
+    color:white;
     font-family:'Playball', cursive;
 }
 h4{
     text-align:center;
     font-weight:200;
     font-size:25px;
+    color:white;
     font-family:'Rajdhani', sans-serif;
 }
 h5{
     font-size:25px;
     font-family:'Rajdhani', sans-serif;
+    color:white;
 }
 h6{
    font-family:'Rajdhani', sans-serif;
    font-size:25px;
+   color:white;
 }
 
 h7{
     font-family:'Rajdhani', sans-serif;
    font-size:25px;
+   color:white;
 }
 h8{
     font-family:'Rajdhani', sans-serif;
    font-size:25px;
+   color:white;
 }
 h9{
     font-family:'Rajdhani', sans-serif;
    font-size:25px;
+   color:white;
 }
 h10{
     font-size:30px;
@@ -68,42 +76,7 @@ h11{
     color:white;
     
 }
-h12{
-    font-size:30px;
-    color:black;
-    font-weight:bold;
-    font-family:'Anton', sans-serif;
-}
-@media(min-width:768px){
-    h12{
-        color:white;
-    }
 
-
-li{
-
-   font-size:35px;
-   font-weight:bold;
-   
-}
-.panel-heading{
-    font-size:25px;
-    font-weight:bold;
-    
-}
-
-p{
-    font-size:33px;
-    font-family: 'Rajdhani', sans-serif;
-    color:white;
-    text-align:center;
-    
-}
-
-.container{
-    font-size:25px; /*hold/click your mouse on "home" or :afraid of heights to see info */
-    color:black;
-}
 .Sec{
     font-size:25px;
     color:white;
@@ -131,6 +104,37 @@ p{
     color:white;
     
 }
+
+li{
+
+   font-size:35px;
+   font-weight:bold;
+   
+}
+
+.panel-heading{
+    font-size:25px;
+    font-weight:bold;
+    
+}
+
+
+
+.container{
+    font-size:25px; /*hold/click your mouse on "home" or :afraid of heights to see info */
+    color:black;
+}
+
+h12{
+    font-size:30px;
+    color:black;
+    font-weight:bold;
+    font-family:'Anton', sans-serif;
+}
+@media(min-width:768px){
+    h12{
+        color:white;
+    }
 
 
 }
